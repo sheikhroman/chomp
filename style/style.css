@@ -1,0 +1,142 @@
+/* Header css */
+/*  */
+
+span {
+    color: #34b9bf;
+}
+
+.bg-color {
+    background-color: rgb(239, 251, 252);
+
+}
+
+.nav-inner {
+    margin-left: 670px;
+}
+
+.header-inner {
+    width: 100%;
+    margin-top: 80px;
+}
+
+.food-btn {
+    color: #fff;
+    background-color: #34b9bf;
+    font-weight: 700;
+    border: #fff;
+    border-radius: 5px;
+    padding: 16px 26px;
+}
+
+.header-text h1 {
+    margin-top: 20px;
+    font-size: 42px;
+    font-weight: 700;
+    line-height: 44px;
+}
+
+.header-text p {
+    margin-top: 30px;
+    font-size: 14px;
+    line-height: 16px;
+}
+
+.svg-img {
+    margin-top: 30px;
+}
+
+/* About */
+.about {
+    background-color: rgb(239, 251, 252);
+    /* margin: 80px; */
+}
+
+.about h1 {
+    margin-top: 60px;
+    font-size: 42px;
+    font-weight: 700;
+    line-height: 44px;
+}
+
+.about .about-img {
+    margin-top: 20px;
+    width: 80%;
+}
+
+/* How to work */
+.work-inner {
+    width: 100%;
+    margin-top: 50px;
+    text-align: center;
+}
+
+.work-inner h1 {
+    margin-top: 60px;
+    font-size: 42px;
+    font-weight: 700;
+    line-height: 44px;
+}
+
+.work-inner h5 {
+    font-size: 18px;
+    line-height: 16px;
+    font-weight: 700;
+}
+
+.work-inner p {
+    font-size: 14px;
+    line-height: 18px;
+}
+
+/* Menu */
+.menu {
+    width: 100%;
+    margin-top: 20px;
+    background-color: rgb(239, 251, 252);
+    text-align: center;
+    padding: 40px;
+}
+
+/* Faq */
+.faq {
+    width: 100%;
+}
+
+.faq h1 {
+    margin-top: 120px;
+    font-size: 42px;
+    font-weight: 700;
+    line-height: 44px;
+}
+
+.faq p {
+    margin-top: 20px;
+    font-size: 14px;
+    line-height: 18px;
+    padding-bottom: 20px;
+}
+
+/* Call */
+.call {
+    width: 100%;
+    background-color: rgb(239, 251, 252);
+
+}
+
+.call h1 {
+    margin-top: 120px;
+    font-size: 42px;
+    font-weight: 700;
+    line-height: 44px;
+}
+
+.call p {
+    margin-top: 20px;
+    font-size: 14px;
+    line-height: 18px;
+    padding-bottom: 20px;
+}
+
+.call .call-img {
+    width: 80%;
+}
